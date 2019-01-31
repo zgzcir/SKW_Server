@@ -1,0 +1,14 @@
+C:\Users\zgzci\source\repos\Socket_Tcp_服务器端\Socket_Tcp_服务器端\bin\Debug\Socket_Tcp_服务器端.exe.config
+C:\Users\zgzci\source\repos\Socket_Tcp_服务器端\Socket_Tcp_服务器端\bin\Debug\Socket_Tcp_服务器端.exe
+C:\Users\zgzci\source\repos\Socket_Tcp_服务器端\Socket_Tcp_服务器端\bin\Debug\Socket_Tcp_服务器端.pdb
+C:\Users\zgzci\source\repos\Socket_Tcp_服务器端\Socket_Tcp_服务器端\obj\Debug\Socket_Tcp_服务器端.csproj.CoreCompileInputs.cache
+C:\Users\zgzci\source\repos\Socket_Tcp_服务器端\Socket_Tcp_服务器端\obj\Debug\Socket_Tcp_服务器端.exe
+C:\Users\zgzci\source\repos\Socket_Tcp_服务器端\Socket_Tcp_服务器端\obj\Debug\Socket_Tcp_服务器端.pdb
+C:\Users\zgzci\source\repos\Socket_Tcp_服务器端\Socket_Tcp_服务器端\obj\Debug\Socket_Tcp_服务器端.csprojAssemblyReference.cache
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\Socket_Tcp_服务器端\bin\Debug\Socket_Tcp_服务器端.exe.config
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\Socket_Tcp_服务器端\bin\Debug\Socket_Tcp_服务器端.exe
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\Socket_Tcp_服务器端\bin\Debug\Socket_Tcp_服务器端.pdb
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\Socket_Tcp_服务器端\obj\Debug\Socket_Tcp_服务器端.csprojAssemblyReference.cache
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\Socket_Tcp_服务器端\obj\Debug\Socket_Tcp_服务器端.csproj.CoreCompileInputs.cache
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\Socket_Tcp_服务器端\obj\Debug\Socket_Tcp_服务器端.exe
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\Socket_Tcp_服务器端\obj\Debug\Socket_Tcp_服务器端.pdb

@@ -1,0 +1,12 @@
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\GameServer\bin\Debug\GameServer.exe.config
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\GameServer\bin\Debug\GameServer.exe
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\GameServer\bin\Debug\GameServer.pdb
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\GameServer\bin\Debug\Common.dll
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\GameServer\bin\Debug\MySql.Data.dll
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\GameServer\bin\Debug\Common.pdb
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\GameServer\bin\Debug\MySql.Data.xml
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\GameServer\obj\Debug\GameServer.csprojAssemblyReference.cache
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\GameServer\obj\Debug\GameServer.csproj.CopyComplete
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\GameServer\obj\Debug\GameServer.exe
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\GameServer\obj\Debug\GameServer.pdb

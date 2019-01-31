@@ -1,0 +1,14 @@
+C:\Users\zgzci\source\repos\Socket_Tcp_服务器端\ToBytes\bin\Debug\ToBytes.exe.config
+C:\Users\zgzci\source\repos\Socket_Tcp_服务器端\ToBytes\bin\Debug\ToBytes.exe
+C:\Users\zgzci\source\repos\Socket_Tcp_服务器端\ToBytes\bin\Debug\ToBytes.pdb
+C:\Users\zgzci\source\repos\Socket_Tcp_服务器端\ToBytes\obj\Debug\ToBytes.csprojAssemblyReference.cache
+C:\Users\zgzci\source\repos\Socket_Tcp_服务器端\ToBytes\obj\Debug\ToBytes.csproj.CoreCompileInputs.cache
+C:\Users\zgzci\source\repos\Socket_Tcp_服务器端\ToBytes\obj\Debug\ToBytes.exe
+C:\Users\zgzci\source\repos\Socket_Tcp_服务器端\ToBytes\obj\Debug\ToBytes.pdb
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\ToBytes\bin\Debug\ToBytes.exe.config
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\ToBytes\bin\Debug\ToBytes.exe
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\ToBytes\bin\Debug\ToBytes.pdb
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\ToBytes\obj\Debug\ToBytes.csprojAssemblyReference.cache
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\ToBytes\obj\Debug\ToBytes.csproj.CoreCompileInputs.cache
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\ToBytes\obj\Debug\ToBytes.exe
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\ToBytes\obj\Debug\ToBytes.pdb

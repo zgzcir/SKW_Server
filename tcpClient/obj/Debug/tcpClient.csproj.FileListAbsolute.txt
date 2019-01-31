@@ -1,0 +1,13 @@
+C:\Users\zgzci\source\repos\Socket_Tcp_服务器端\tcpClient\bin\Debug\tcpClient.exe.config
+C:\Users\zgzci\source\repos\Socket_Tcp_服务器端\tcpClient\bin\Debug\tcpClient.exe
+C:\Users\zgzci\source\repos\Socket_Tcp_服务器端\tcpClient\bin\Debug\tcpClient.pdb
+C:\Users\zgzci\source\repos\Socket_Tcp_服务器端\tcpClient\obj\Debug\tcpClient.csproj.CoreCompileInputs.cache
+C:\Users\zgzci\source\repos\Socket_Tcp_服务器端\tcpClient\obj\Debug\tcpClient.exe
+C:\Users\zgzci\source\repos\Socket_Tcp_服务器端\tcpClient\obj\Debug\tcpClient.pdb
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\tcpClient\bin\Debug\tcpClient.exe.config
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\tcpClient\bin\Debug\tcpClient.exe
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\tcpClient\bin\Debug\tcpClient.pdb
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\tcpClient\obj\Debug\tcpClient.csprojAssemblyReference.cache
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\tcpClient\obj\Debug\tcpClient.csproj.CoreCompileInputs.cache
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\tcpClient\obj\Debug\tcpClient.exe
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\tcpClient\obj\Debug\tcpClient.pdb

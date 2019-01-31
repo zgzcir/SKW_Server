@@ -1,0 +1,8 @@
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\Common\bin\Debug\netstandard1.4\Common.deps.json
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\Common\bin\Debug\netstandard1.4\Common.dll
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\Common\bin\Debug\netstandard1.4\Common.pdb
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\Common\obj\Debug\netstandard1.4\Common.csproj.CoreCompileInputs.cache
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\Common\obj\Debug\netstandard1.4\Common.AssemblyInfo.cs
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\Common\obj\Debug\netstandard1.4\Common.dll
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\Common\obj\Debug\netstandard1.4\Common.pdb
+D:\ABackUp\source\repos\Socket_Tcp_服务器端\Common\obj\Debug\netstandard1.4\Common.csprojAssemblyReference.cache
